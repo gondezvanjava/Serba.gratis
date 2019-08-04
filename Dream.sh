@@ -150,7 +150,7 @@ sleep 2
 echo $i"Bila Ada Bug  Bisa Nanya Kepada Saya"
 sleep 2
 echo $i"WhatsApp :"$i" 088214823450"
-echo $bi"Facebook :"$i" GONDEZVANJAVA"
+echo $bi"Facebook :"$i" Ekho satrio"
 exit
 fi
 © 2019 GitHub, Inc.
